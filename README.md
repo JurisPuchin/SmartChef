@@ -10,3 +10,12 @@ Features include:
 * Google Maps integration for finding stores (or restaurants and bars if you give up on cooking).
 * Recipe Results powered by Yummly and Spoonacular.
 * Full Recipe information provided by Spoonacular.
+
+## Team:
+
+* Juris Puchin (Team lead, Overall Architecture, Evernote integration)
+* Harjit Randhawa (Tech lead, Git Merge Master, Yummly and Spoonacular integration)
+* Matvey Voishchev (Google maps integration)
+* Thomas X Mei (Recipe display screens)
+* Marc Anthony Garde (Persistent drawer menu)
+* Poulomi Rajarshi (Main search screen)
