@@ -1,13 +1,12 @@
 # SmartChef App
-An andoid app developed by a student team lead by Juris Puchin at SFSU. <br/>
+An andoid app developed as a class project by an undegraduate student team lead by Juris Puchin at SFSU. <br/>
 Features include:
-* Search for Recipes By Ingredient.
+* Search for recipes by ingredient.
 * Filter by allergies and/or cuisines.
+* Ability to store a list of ingreadients for quick searching.
+* Full recipe ingredients and instructions display in-app.
 * Evernote integration for easy shopping list creation.
-* Google maps integration for finding stores.
-* Full recipe Ingredients and Instructions.
-* Ability to save recipes for later.
-* Store a list of ingreadients for later searching.
-* Creat shopping lists of ingredients for easy shopping.
+* Ability to save favorite recipes for later.
+* Google Maps integration for finding stores (or restaurants and bars if you give up on cooking).
 * Recipe Results powered by Yummly and Spoonacular.
 * Full Recipe information provided by Spoonacular.
