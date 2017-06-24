@@ -1,5 +1,5 @@
 # SmartChef App
-An andoid app developed as a class project by an undegraduate student team lead by Juris Puchin at SFSU. Available for free on the Google App Store by publisher "heylookabird" <br/> <br/>
+An andoid app developed as a class project by an undegraduate student team lead by Juris Puchin at SFSU. Available for free on the Google App Store by publisher "heylookabird". <br/> <br/>
 Features include:
 * Search for recipes by ingredient.
 * Filter by allergies and/or cuisines.
