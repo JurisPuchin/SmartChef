@@ -13,8 +13,8 @@ Features include:
 
 ## Team:
 
-* Juris Puchin (Team lead, Overall Architecture, Evernote integration)
-* Harjit Randhawa (Tech lead, Git Merge Master, Yummly and Spoonacular integration)
+* Juris Puchin (Team lead, overall architecture, Evernote integration)
+* Harjit Randhawa (Tech lead, Git merge master, Yummly and Spoonacular integration)
 * Matvey Voishchev (Google maps integration)
 * Thomas X Mei (Recipe display screens)
 * Marc Anthony Garde (Persistent drawer menu)
